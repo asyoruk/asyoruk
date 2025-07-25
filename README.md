@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Software+Engineer+based+in+San+Francisco+%F0%9F%8C%89;7%2B+Years+Java+%26+Spring+Boot+Experience;Building+AI%E2%80%91Powered+Interview+Coach+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi+I'm+Ahmet+Serkan+Yoruk;Clean+Code+%7C+Cloud+Infra+%7C+Scalable+Systems;Software+Engineer+based+in+San+Francisco+%F0%9F%8C%89;6%2B+Years+Java+%26+Spring+Boot+Experience;Building+AI%E2%80%91Powered+Interview+Coach+%F0%9F%A4%96;Senior+Java+Backend+Engineer" alt="Typing SVG" />
 </h1>
 
 
@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 📍Based in San Francisco, CA
-- 👨‍💻 7+ years experience building scalable backend systems  
+- 👨‍💻 6+ years experience building scalable backend systems  
 - ☕ Java, Spring Boot, REST APIs, Microservices  
 - 🔒 OAuth2, WSO2 API Gateway & Identity Server  
 - 🚀 Docker, Kubernetes, AWS (ECS, S3, RDS)  
