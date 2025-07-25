@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/asyoruk/asyoruk/blob/master/the_coding_space.gif" alt="Epic Dev GIF" width="450" />
+  <img src="https://github.com/asyoruk/asyoruk/blob/master/the_coding_space.gif" alt="Epic Dev GIF" width="200" />
 </p>
 
 
