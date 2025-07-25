@@ -101,6 +101,11 @@
   🧠 *“If you can imagine it, you can build it.”*
 </p>
 
+<p align="center">
+  <img src="https://github.com/asyoruk/asyoruk/blob/master/the_coding_space.gif" alt="Epic Dev GIF" width="450" />
+</p>
+
+
 ---
 
 <p align="center">
