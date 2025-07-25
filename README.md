@@ -4,11 +4,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/asyoruk/asyoruk/blob/main/dev-unique.gif" alt="Epic Dev GIF" width="450" />
+  <img src="https://github.com/asyoruk/asyoruk/blob/master/giphy.gif" alt="Epic Dev GIF" width="450" />
 </p>
 <!-- Themed GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dev GIF" width="400" />
+<!--p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Dev GIF" width="400" /-->
 </p>
 
 ---
