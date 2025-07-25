@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🇺🇸 Based in San Francisco, CA
+- 📍Based in San Francisco, CA
 - 👨‍💻 7+ years experience building scalable backend systems  
 - ☕ Java, Spring Boot, REST APIs, Microservices  
 - 🔒 OAuth2, WSO2 API Gateway & Identity Server  
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C82E1B?style=flat&logo=amazon-s3&logoColor=white" />
 </p>
 
 ---
